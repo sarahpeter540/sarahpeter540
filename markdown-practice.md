@@ -5,7 +5,9 @@ HEADINGS
 
 TEXT FORMATTING
 **I'm a Graphic Designer**.
+
 *currently studying AI*.
+
 ~~from Ruiru~~.
 
 
