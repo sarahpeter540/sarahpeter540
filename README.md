@@ -1,15 +1,16 @@
-## Hi there 👋I' m Sarah 
+# Hi, I'm Sarah 
 
-<!--
+## About Me
+- I'm currently learning AI at Mahanaim college.
+- I'm interested in AI.
+- I'm looking to collaborate on beginner friendly AI skills.
 
-About me
+## Skills I'm Building
+- Git and GitHub
+  
 
-- 🔭 I’m currently working on git and github.
-- 🌱 I’m currently learning AI.
-- 👯 I’m looking to collaborate on AI concepts 
--
-- 📫 How to reach me: 
-sarahpeters1943@gmail.com...
--
-- 
--->
+## Current Projects
+- AI consepts
+
+## How to Reach Me
+- Email: sarahpeters1943@gmail.com
