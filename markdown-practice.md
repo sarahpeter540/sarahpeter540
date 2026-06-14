@@ -1,53 +1,58 @@
-HEADINGS
+# Exercise 1
 ## My learning Goals.
 ### This Semester.
 
+#Exercise 2 
 
-TEXT FORMATTING
+TEXT FORMATTING.
+
 **I'm a Graphic Designer**.
 
 *currently studying AI*.
 
-~~from Ruiru~~.
+'from Ruiru'
 
+#Exercise 3 
 
 LINKS
 [Learn AI skills](ai.google).
-[AI Consepts](https://sarahpeter540.github.io).
 
+[Github profile](https://sarahpeter540.github.io/).
 
+# Exercise 4 
 **LISTS**
-*UNORDERD LIST*
+
+*Things i want to learn*
 - Introduction to AI
 - Machine learning
 - Neural networks
 
-*ORDERED LIST*
-1. View your changes
-2. Stage the files
-3. Verify your staged work
-4. Commit the changes.
+*Steps to commit in Git*
+1. Add files with git.
+2. Commit with git.
+3. Push and pull requests with git.
    
-
+   
+# EXERCISE 5
  **TABLE**
  | Tool| Purpose| Link|
  |-----|--------|-----|
- |HTML |        |     |
- |CSS  |        |     |
+ |Vs code|edits code|     |
+ |Git |version control|     |
  
-
+# Exercise 6
  **TASK LIST**
  - [X] creating repositories.
- - [ ] introduction to AI.
- - [ ] Machine learning.
- - [ ] Neural networks.
+ - [X] introduction to AI.
+ - [X] Machine learning.
+ - [X] Neural networks.
  
-
+# Exercise 7
  **CODE BLOCK**
- ''' python
+ '''python
  print ("Hello, My name is Sarah, a graphic designer currently studying AI")
  '''
-
+# Exercise 8
  **BLOCKQUOTE**
  > Practice practice makes perfect.
     
