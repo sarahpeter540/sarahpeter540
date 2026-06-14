@@ -7,6 +7,7 @@
 
 ## Skills I'm Building
 - Git and GitHub
+- Vs code
   
 
 ## Current Projects
