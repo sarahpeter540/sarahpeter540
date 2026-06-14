@@ -2,7 +2,7 @@
 ## My learning Goals.
 ### This Semester.
 
-#Exercise 2 
+# Exercise 2 
 
 TEXT FORMATTING.
 
@@ -10,11 +10,12 @@ TEXT FORMATTING.
 
 *currently studying AI*.
 
-'from Ruiru'
+'Commit' yourself to learn.
 
-#Exercise 3 
+# Exercise 3 
 
 LINKS
+
 [Learn AI skills](ai.google).
 
 [Github profile](https://sarahpeter540.github.io/).
@@ -49,7 +50,7 @@ LINKS
  
 # Exercise 7
  **CODE BLOCK**
- '''python
+ '''
  print ("Hello, My name is Sarah, a graphic designer currently studying AI")
  '''
 # Exercise 8
