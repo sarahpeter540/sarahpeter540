@@ -6,7 +6,7 @@
 
 TEXT FORMATTING.
 
-**I'm a Graphic Designer**. I want to become a confident developer, who inderstands how to *navigate through github* and use 'git commands' appropriately.
+**I'm a Graphic Designer**. I want to become a confident developer, who understands how to *navigate through github* and use 'git commands' appropriately.
 
 # Exercise 3 
 
