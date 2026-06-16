@@ -6,11 +6,7 @@
 
 TEXT FORMATTING.
 
-**I'm a Graphic Designer**.
-
-*currently studying AI*.
-
-'Commit' yourself to learn.
+**I'm a Graphic Designer**. I want to become a confident developer, who inderstands how to *navigate through github* and use 'git commands' appropriately.
 
 # Exercise 3 
 
@@ -18,7 +14,7 @@ LINKS
 
 [Learn AI skills](ai.google).
 
-[Github profile](https://sarahpeter540.github.io/).
+[Github profile](https://sarahpeter540).
 
 # Exercise 4 
 **LISTS**
@@ -38,8 +34,8 @@ LINKS
  **TABLE**
  | Tool| Purpose| Link|
  |-----|--------|-----|
- |Vs code|edits code|     |
- |Git |version control|     |
+ |Vs code|code editor|https://code.visualstudio.com|
+ |Git |version control|https://git-scm.com |
  
 # Exercise 6
  **TASK LIST**
