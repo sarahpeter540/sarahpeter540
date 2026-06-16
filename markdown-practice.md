@@ -6,7 +6,7 @@
 
 TEXT FORMATTING.
 
-**I'm a Graphic Designer**. I want to become a confident developer, who understands how to *navigate through github* and use 'git commands' appropriately.
+**I'm a Graphic Designer**. I want to become a confident developer, who understands how to *navigate through github* and use `git commands` appropriately.
 
 # Exercise 3 
 
@@ -46,9 +46,9 @@ LINKS
  
 # Exercise 7
  **CODE BLOCK**
- '''
+ ```python
  print ("Hello, My name is Sarah, a graphic designer currently studying AI")
- '''
+ ```
 # Exercise 8
  **BLOCKQUOTE**
  > Practice practice makes perfect.
