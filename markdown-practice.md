@@ -14,7 +14,7 @@ LINKS
 
 [Learn AI skills](ai.google).
 
-[Github profile](https://github.io/sarahpeter540).
+[Github profile](https://github.com/sarahpeter540).
 
 # Exercise 4 
 **LISTS**
