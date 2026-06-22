@@ -41,8 +41,8 @@ LINKS
  **TASK LIST**
  - [X] creating repositories.
  - [X] introduction to AI.
- - [] Machine learning.
- - [] Neural networks.
+ - [ ] Machine learning.
+ - [ ] Neural networks.
  
 # Exercise 7
  **CODE BLOCK**
